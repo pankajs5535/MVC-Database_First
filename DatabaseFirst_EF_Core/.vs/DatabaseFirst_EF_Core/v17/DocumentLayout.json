@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\DatabaseFirst_EF_Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D25E5E85-2992-47A0-900A-5F1215870D58}|DatabaseFirst_EF_Core\\DatabaseFirst_EF_Core.csproj|d:\\skylark\\dot net\\mvc\\mvc_core_learning\\databasefirst_ef_core\\databasefirst_ef_core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D25E5E85-2992-47A0-900A-5F1215870D58}|DatabaseFirst_EF_Core\\DatabaseFirst_EF_Core.csproj|solutionrelative:databasefirst_ef_core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D25E5E85-2992-47A0-900A-5F1215870D58}|DatabaseFirst_EF_Core\\DatabaseFirst_EF_Core.csproj|d:\\skylark\\dot net\\mvc\\mvc_core_learning\\databasefirst_ef_core\\databasefirst_ef_core\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D25E5E85-2992-47A0-900A-5F1215870D58}|DatabaseFirst_EF_Core\\DatabaseFirst_EF_Core.csproj|solutionrelative:databasefirst_ef_core\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D25E5E85-2992-47A0-900A-5F1215870D58}|DatabaseFirst_EF_Core\\DatabaseFirst_EF_Core.csproj|d:\\skylark\\dot net\\mvc\\mvc_core_learning\\databasefirst_ef_core\\databasefirst_ef_core\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D25E5E85-2992-47A0-900A-5F1215870D58}|DatabaseFirst_EF_Core\\DatabaseFirst_EF_Core.csproj|solutionrelative:databasefirst_ef_core\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D25E5E85-2992-47A0-900A-5F1215870D58}|DatabaseFirst_EF_Core\\DatabaseFirst_EF_Core.csproj|d:\\skylark\\dot net\\mvc\\mvc_core_learning\\databasefirst_ef_core\\databasefirst_ef_core\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D25E5E85-2992-47A0-900A-5F1215870D58}|DatabaseFirst_EF_Core\\DatabaseFirst_EF_Core.csproj|solutionrelative:databasefirst_ef_core\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D25E5E85-2992-47A0-900A-5F1215870D58}|DatabaseFirst_EF_Core\\DatabaseFirst_EF_Core.csproj|d:\\skylark\\dot net\\mvc\\mvc_core_learning\\databasefirst_ef_core\\databasefirst_ef_core\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D25E5E85-2992-47A0-900A-5F1215870D58}|DatabaseFirst_EF_Core\\DatabaseFirst_EF_Core.csproj|solutionrelative:databasefirst_ef_core\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D25E5E85-2992-47A0-900A-5F1215870D58}|DatabaseFirst_EF_Core\\DatabaseFirst_EF_Core.csproj|d:\\skylark\\dot net\\mvc\\mvc_core_learning\\databasefirst_ef_core\\databasefirst_ef_core\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D25E5E85-2992-47A0-900A-5F1215870D58}|DatabaseFirst_EF_Core\\DatabaseFirst_EF_Core.csproj|solutionrelative:databasefirst_ef_core\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D25E5E85-2992-47A0-900A-5F1215870D58}|DatabaseFirst_EF_Core\\DatabaseFirst_EF_Core.csproj|d:\\skylark\\dot net\\mvc\\mvc_core_learning\\databasefirst_ef_core\\databasefirst_ef_core\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D25E5E85-2992-47A0-900A-5F1215870D58}|DatabaseFirst_EF_Core\\DatabaseFirst_EF_Core.csproj|solutionrelative:databasefirst_ef_core\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D25E5E85-2992-47A0-900A-5F1215870D58}|DatabaseFirst_EF_Core\\DatabaseFirst_EF_Core.csproj|d:\\skylark\\dot net\\mvc\\mvc_core_learning\\databasefirst_ef_core\\databasefirst_ef_core\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D25E5E85-2992-47A0-900A-5F1215870D58}|DatabaseFirst_EF_Core\\DatabaseFirst_EF_Core.csproj|solutionrelative:databasefirst_ef_core\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\DatabaseFirst_EF_Core\\DatabaseFirst_EF_Core\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DatabaseFirst_EF_Core\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\DatabaseFirst_EF_Core\\DatabaseFirst_EF_Core\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "DatabaseFirst_EF_Core\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T05:53:19.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\DatabaseFirst_EF_Core\\DatabaseFirst_EF_Core\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "DatabaseFirst_EF_Core\\Views\\Home\\Create.cshtml",
+              "ToolTip": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\DatabaseFirst_EF_Core\\DatabaseFirst_EF_Core\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "DatabaseFirst_EF_Core\\Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T05:53:10.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\DatabaseFirst_EF_Core\\DatabaseFirst_EF_Core\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "DatabaseFirst_EF_Core\\Views\\Home\\Details.cshtml",
+              "ToolTip": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\DatabaseFirst_EF_Core\\DatabaseFirst_EF_Core\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "DatabaseFirst_EF_Core\\Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T05:52:50.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\DatabaseFirst_EF_Core\\DatabaseFirst_EF_Core\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DatabaseFirst_EF_Core\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\DatabaseFirst_EF_Core\\DatabaseFirst_EF_Core\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DatabaseFirst_EF_Core\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAACkAAAAAAAAAAAAEwEkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T05:39:14.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\DatabaseFirst_EF_Core\\DatabaseFirst_EF_Core\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DatabaseFirst_EF_Core\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\DatabaseFirst_EF_Core\\DatabaseFirst_EF_Core\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DatabaseFirst_EF_Core\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAwwCsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T05:32:08.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\DatabaseFirst_EF_Core\\DatabaseFirst_EF_Core\\Program.cs",
+              "RelativeDocumentMoniker": "DatabaseFirst_EF_Core\\Program.cs",
+              "ToolTip": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\DatabaseFirst_EF_Core\\DatabaseFirst_EF_Core\\Program.cs",
+              "RelativeToolTip": "DatabaseFirst_EF_Core\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T05:31:38.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\DatabaseFirst_EF_Core\\DatabaseFirst_EF_Core\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "DatabaseFirst_EF_Core\\Models\\Student.cs",
+              "ToolTip": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\DatabaseFirst_EF_Core\\DatabaseFirst_EF_Core\\Models\\Student.cs",
+              "RelativeToolTip": "DatabaseFirst_EF_Core\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T05:26:01.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\DatabaseFirst_EF_Core\\DatabaseFirst_EF_Core\\Models\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "DatabaseFirst_EF_Core\\Models\\MyDbContext.cs",
+              "ToolTip": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\DatabaseFirst_EF_Core\\DatabaseFirst_EF_Core\\Models\\MyDbContext.cs",
+              "RelativeToolTip": "DatabaseFirst_EF_Core\\Models\\MyDbContext.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAMwB8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T05:25:56.626Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

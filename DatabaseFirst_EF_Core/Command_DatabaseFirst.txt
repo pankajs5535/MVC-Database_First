@@ -1,0 +1,77 @@
+
+Add Nuget Packages
+
+Microsoft.EntityFrameworkCore.SqlServer
+Microsoft.EntityFrameworkCore.Design
+Microsoft.EntityFrameworkCore.Tools
+
+ <ItemGroup>
+   <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.7">
+     <PrivateAssets>all</PrivateAssets>
+     <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+   </PackageReference>
+   <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.7" />
+   <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.7">
+     <PrivateAssets>all</PrivateAssets>
+     <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+   </PackageReference>
+ </ItemGroup>
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Scaffold-Dbcontext “Server=SKYLARK; Database=Jan_2024; Trusted_Connection=True;Encrypt=False; TrustServerCertificate=True;” Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+
+
+If We Add Additional Table after Scaffold-Dbcontext Using Scaffold 
+
+Scaffold-Dbcontext “Server=SKYLARK; Database=Jan_2024; Trusted_Connection=True;Encrypt=False; TrustServerCertificate=True;” Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -force
+
+
+Scaffold-DbContext "Server=SKYLARK; Database=Jan_2024; Trusted_Connection=True;Encrypt=False; TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Context YourCustomDbContextName
+
+
+
+Scaffold-DbContext "Server=SKYLARK;Database=Jan_2024;Integrated Security=True;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+
+
+
+Scaffold-DbContext "Server=SKYLARK;Database=Jan_2024;Trusted_Connection=True;Encrypt=False;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -t TableName1 -t TableName2 -t TableName3
+
+
+
+Scaffold-DbContext "Server=SKYLARK;Database=Jan_2024;Trusted_Connection=True;Encrypt=False;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -t Student -t Course -t Teacher
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Add Database Connection
+
+ConnectionStrings:
+
+{
+
+  "ConnectionStrings": {
+    "defaultConnection": "Server=SKYLARK;Database:Object_Tech;Trusted_Connection:true;Encrypt:false"
+  },
+
+
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*"
+}
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+
+
+
+
